@@ -1,0 +1,7 @@
+README.md
+setup.py
+my_external_package_1.egg-info/PKG-INFO
+my_external_package_1.egg-info/SOURCES.txt
+my_external_package_1.egg-info/dependency_links.txt
+my_external_package_1.egg-info/requires.txt
+my_external_package_1.egg-info/top_level.txt

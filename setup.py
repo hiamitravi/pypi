@@ -1,17 +1,12 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_external_package',
-    version='0.1.0',
+    name='my_external_package_1',
+    version='0.1.1',
     packages=find_packages(),
     install_requires=[
-        "requests==2.32.3",
-        "scikit-learn==1.6.0",
-        "SQLAlchemy==2.0.36",
-        "sqlalchemy-bigquery==1.12.0",
-        "xmltodict==0.14.2",
-        "pyparsing==3.2.1",
-        "tqdm==4.67.1"
+        "requests",
+        "scikit-learn",
     ],
     author='Amit Ravi',
     author_email='amit.ravi@uk.qbe.com',

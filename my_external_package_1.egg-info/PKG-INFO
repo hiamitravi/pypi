@@ -1,6 +1,6 @@
 Metadata-Version: 2.2
-Name: my_external_package
-Version: 0.1.0
+Name: my_external_package_1
+Version: 0.1.1
 Summary: A test of external package
 Home-page: https://github.com/hiamitravi/pypi
 Author: Amit Ravi

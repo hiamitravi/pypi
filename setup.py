@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='my_external_package_1',
+    name='my_package_1',
     version='0.1.1',
     packages=find_packages(),
     install_requires=[

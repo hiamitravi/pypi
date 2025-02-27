@@ -1,0 +1,6 @@
+Metadata-Version: 2.2
+Name: pypackage_hello
+Version: 0.1.0
+Summary: A simple example package
+Requires-Dist: requests
+Requires-Dist: scikit-learn

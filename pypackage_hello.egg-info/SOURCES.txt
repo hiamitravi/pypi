@@ -1,0 +1,6 @@
+pyproject.toml
+pypackage_hello.egg-info/PKG-INFO
+pypackage_hello.egg-info/SOURCES.txt
+pypackage_hello.egg-info/dependency_links.txt
+pypackage_hello.egg-info/requires.txt
+pypackage_hello.egg-info/top_level.txt
